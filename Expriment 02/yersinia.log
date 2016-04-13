@@ -1,0 +1,56 @@
+# yersinia v0.7.3 started in SplendidSky on Thu Apr  7 03:39:20 2016
+
+Network Interface eth0
+
+ eth0 iflinkname EN10MB
+ eth0 iflinkdesc Ethernet
+ eth0 MAC = 0050.5623.682e
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface nflog
+Network Interface nfqueue
+Network Interface usbmon1
+pcap_open_live failed: usbmon1: Can't open USB bus file /sys/kernel/debug/usbmon/1t: No such file or directory
+Network Interface usbmon2
+pcap_open_live failed: usbmon2: Can't open USB bus file /sys/kernel/debug/usbmon/2t: No such file or directory
+ g00dbye function called from -1237813120
+
+ th_uptime thread = -1246209216
+
+ ints_destroy started...
+ ints_destroy killing pcap_listener(-1237816512)...
+
+ thread_destroy -1237813120 destroying -1237816512...
+ thread_destroy -1237813120 after PTHREAD_JOIN -1237816512...
+ ints_destroy finished...
+ Showing MOTD..
+# yersinia finished on Thu Apr  7 03:39:20 2016
+
+# yersinia v0.7.3 started in SplendidSky on Thu Apr  7 03:41:12 2016
+
+Network Interface eth0
+
+ eth0 iflinkname EN10MB
+ eth0 iflinkdesc Ethernet
+ eth0 MAC = 0050.5623.682e
+Network Interface lo
+
+ lo iflinkname EN10MB
+ lo iflinkdesc Ethernet
+ lo MAC = 0000.0000.0000
+Network Interface nflog
+Network Interface nfqueue
+Network Interface usbmon1
+pcap_open_live failed: usbmon1: Can't open USB bus file /sys/kernel/debug/usbmon/1t: No such file or directory
+Network Interface usbmon2
+pcap_open_live failed: usbmon2: Can't open USB bus file /sys/kernel/debug/usbmon/2t: No such file or directory
+
+ gtk_gui_th = -1254704320
+
+ th_uptime thread = -1246311616
+ eth0 libnet_handler B4AB2600
+Ohhh no hay paquetes del modo 1, fila 0 :(
+ attack_launch: -1254704320 Attack thread -1320002752 is born!!
